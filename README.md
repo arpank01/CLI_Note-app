@@ -1,7 +1,8 @@
 >[!important]
 >To run the app , g++ must be installed . . .
 
-**In CMD/Powershell do the following**
+**Either download the zip file , extract it and run the .bat file or download the taskapp.cpp file and 
+In CMD/Powershell do the following**
 --------------------------------------------
 
 
