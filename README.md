@@ -25,3 +25,7 @@ Options
 >-d : To delete menu
 >
 >:q : To quit the app
+
+>[!note]
+>Project idea credits to @nexus949
+
