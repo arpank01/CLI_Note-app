@@ -1,8 +1,19 @@
-to run the app , g++ must be installed . . .
-In CMD do the following
+To run the app , g++ must be installed . . .
 
-//compilation 
-g++ file.cpp -o file.exe 
+~In CMD/Powershell do the following~
 
-//run using
-file.exe
+//compilation in cmd or Powershell
+g++ taskapp.cpp -o taskapp.exe 
+
+
+//in cmd run using
+taskapp.exe
+
+//in powershell run using
+./taskapp.exe
+
+
+options
+-------------
+-d : To delete menu
+:q : To quit the app
